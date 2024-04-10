@@ -1,69 +1,88 @@
-<div class="header" align="center">
-  <h1>I'm Software Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="gif greeting" width="30px"></h1>
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200">
-  <p>
-      I'm a Systems Administration Engineering student, interested in Full Stack software development. I'm considered a passionate software developer, I like to learn         every day.
-  </p>
-</div>
+<h1 align="center">Software Developer</h1>
 
-<div class="redes" align="center">
-  <a href="https://linkedin.com/in/orlando-alberto-hernández-gonzález-482412222" target="_blank">
-  <img    src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="image linkedln"/>
+###
+
+<p align="left">My approach is oriented to constant growth, I excel at addressing challenges with innovative and efficient solutions. <br><br>I am a continuous learning enthusiast, always open to explore new technologies and methods that enhance my ability to create quality solutions. <br><br>What sets me apart is my passion for challenges and my dedication to do my best on every project. I enjoy learning from others and sharing knowledge to drive team excellence.</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/orlandohernandezgzz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
-<!-- Los (---) son para hacer una línea en markdown -->
----
+###
 
-<!-- Los (##) son para hacer un encabezado h2 -->
-## My Skills:
-- Leader.
-- Adaptability to work in a team.
-- Responsible.
-- Proactive.
-- Web Design.
-- Web Development.
-- Mobile Development.
+<h2 align="left">My Hard Skills</h2>
+
+###
+
+<h3 align="left">Frontend:</h3>
+
+###
 
 <div align="left">
-  <h2>Knowledges</h2>
-  
-  <div>
-    <h3>Languages.</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="JS" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="50px">
-  </div>
-  
-  <div>
-     <h3>Frameworks.</h3>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue JS" alt="vue js" width="50px">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Larevel" alt="Laravel" width="50px">
-  </div>
-  
-  <div>
-     <h3>Databases.</h3>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="70px">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server"           width="70px">
-  </div>
-  
-  <div>
-     <h3>DevOps.</h3>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50px">
-  </div>
-  
-  <div>
-     <h3>Testing Tools.</h3>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="50px">
-  </div>
-  
-  <div>
-     <h3>Other Tools.</h3>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50px">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50px">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Vscode" width="50px">
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
+
+###
+
+<h3 align="left">Backend:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">Tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">My Soft Skills</h2>
+
+###
+
+<p align="left">- Teamwork.<br>- Self-taught.<br>- Leadership.<br>- Responsible.<br>- Time management.</p>
+
+###
+
+<h2 align="left">My Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OrlandoHernandezGzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrlandoHernandezGzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
